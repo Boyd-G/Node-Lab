@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "\"NodeJS Lab\"",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boyd-G/Node-Lab.git"
+  },
+  "author": "Boyd-G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boyd-G/Node-Lab/issues"
+  },
+  "homepage": "https://github.com/Boyd-G/Node-Lab#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
